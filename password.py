@@ -1,4 +1,4 @@
-i = 3
+i = 3 #有三次機會
 password='a123456'
 while True:
     pwd=input ('請輸入密碼:')
