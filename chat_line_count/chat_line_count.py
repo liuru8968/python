@@ -10,7 +10,7 @@ def read_file(filename):
 
 def convert(lines):
 	person = None
-	liu_word_count = 0#算字數
+	liu_word_count  =  0 ＃算字數
 	liu_sticker_count = 0#算貼圖
 	liu_image_count = 0#算圖片
 	Hsin_word_count = 0
