@@ -5,7 +5,7 @@ def read_file(filename):
 	with open(filename, 'r', encoding='utf-8-sig') as f:
 		for line in f:
 			lines.append(line.strip())#append():用於()中的添增新對象
-	return lines
+	return lines	#.strip()去除換行符號
 
 
 def convert(lines):
