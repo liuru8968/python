@@ -1,4 +1,4 @@
-#Dictionary 字典 應用範例ex:3
+#Dictionary 字典 應用範例ex:2(利用AQI指標)
 
 #利用字典查詢指定答案
 
